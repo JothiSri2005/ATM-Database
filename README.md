@@ -81,7 +81,7 @@ The project simulates a real-world ATM system where users can independently perf
 
 ---
 
-📄 [View Full Report with Screenshots (PDF)](docs/ATM_DBMS_Project.pdf)
+📄 [View Full Report with Screenshots (PDF)](ATM_DBMS_Project.pdf)
 
 
 ---
