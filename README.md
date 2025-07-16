@@ -81,24 +81,8 @@ The project simulates a real-world ATM system where users can independently perf
 
 ---
 
-## 🖼️ Screenshots
+📄 [View Full Report with Screenshots (PDF)](docs/ATM_DBMS_Project.pdf)
 
-> *(Extract these from your report PDF and place in `/screenshots/` folder)*
-
-### 🔐 Card Login
-![Card Login](screenshots/card_login.png)
-
-### 🏦 Main Menu
-![ATM Options](screenshots/main_page.png)
-
-### 💳 Deposit Cash
-![Deposit](screenshots/deposit.png)
-
-### 💸 Fund Transfer
-![Transfer](screenshots/fund_transfer.png)
-
-### 📄 Receipt
-![Receipt](screenshots/receipt.png)
 
 ---
 
