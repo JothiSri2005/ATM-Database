@@ -111,7 +111,7 @@ The project simulates a real-world ATM system where users can independently perf
 
 2. **Import Database:**
    - Open XAMPP → start Apache & MySQL
-   - Go to phpMyAdmin → import `atm_db.sql`
+   - Go to phpMyAdmin → import `ATM-tables.sql`
 
 3. **Place project in XAMPP `htdocs` folder:**
    ```
